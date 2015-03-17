@@ -16,6 +16,7 @@ system/lib/libatparser.so
 system/lib/libcsd-client.so
 system/lib/libdiag.so
 system/lib/libdsi_netctrl.so
+system/lib/libdss.so
 system/lib/libdsutils.so
 system/lib/libfactoryutil.so
 system/lib/libidl.so
@@ -39,3 +40,4 @@ system/lib/libsecnativefeature.so
 system/lib/libsecril-client.so
 system/lib/hw/sensors.smdk4x12.so
 system/usr/keylayout/sec_touchkey.kl
+
